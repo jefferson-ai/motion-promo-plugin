@@ -1,0 +1,18 @@
+{
+  "name": "motion-promo",
+  "description": "Make short app promo and launch videos in code (Remotion): voice-timed kinetic text, real app captures on a 3D phone, generated sound effects, music cut to the beat, and a DaVinci Resolve hand-off.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jefferson"
+  },
+  "keywords": [
+    "video",
+    "motion-graphics",
+    "remotion",
+    "promo",
+    "marketing"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/jefferson-ai/motion-promo-plugin",
+  "homepage": "https://github.com/jefferson-ai/motion-promo-plugin"
+}

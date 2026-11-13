@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hook",
+    "say": "Okay, so it's month end, and somehow, your money's just gone?",
+    "show": ["Okay, so it's month end…", "…and somehow, your money's just gone?"]
+  },
+  {
+    "id": "showcase",
+    "say": "Meet Acme. The budget app that does the tracking for you.",
+    "show": ["Meet Acme.", "The budget app that does the tracking for you."]
+  },
+  {
+    "id": "features",
+    "say": "Set budgets. Reach your goals. And see exactly where your money goes.",
+    "show": ["Set budgets.", "Reach your goals.", "See exactly where your money goes."]
+  },
+  {
+    "id": "ending",
+    "say": "So stop guessing. Acme. Coming soon.",
+    "show": ["So stop guessing.", "Acme", "Coming soon."]
+  }
+]

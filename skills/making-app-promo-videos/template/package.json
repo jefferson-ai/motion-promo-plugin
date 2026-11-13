@@ -1,0 +1,26 @@
+{
+  "name": "app-promo-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "remotion studio",
+    "render": "remotion render Promo out/promo.mp4",
+    "still": "remotion still Promo",
+    "voice": "node scripts/make-voice.mjs",
+    "voices": "node scripts/voice-samples.mjs",
+    "sfx": "node scripts/make-sfx.mjs",
+    "measure": "node scripts/measure-music.mjs",
+    "cuts": "node scripts/check-cuts.mjs",
+    "sheet": "python3 scripts/contact-sheet.py",
+    "resolve": "node scripts/export-resolve.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.542",
+    "kokoro-js": "1.2.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.542",
+    "@types/react": "^19.3.0",
+    "typescript": "7.0.2"
+  }
+}

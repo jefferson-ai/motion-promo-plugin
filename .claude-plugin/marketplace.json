@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "motion-promo-local",
+  "description": "Local marketplace for the motion-promo plugin",
+  "owner": {
+    "name": "Jefferson"
+  },
+  "plugins": [
+    {
+      "name": "motion-promo",
+      "description": "Make short app promo and launch videos in code (Remotion), timed to a voice-over, with real app captures.",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
